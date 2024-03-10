@@ -1,0 +1,22 @@
+.red {
+    color: red;
+}
+.line {
+    text-decoration: line-through;
+}
+ul {
+    list-style: none;
+    margin: 0px;
+}
+.blue1 {
+    background-color: #A5CCDB;
+}
+.blue2 {
+    background-color: #ADD9E6;
+}
+.gray {
+    background-color: #E2E2E2;
+}
+li {
+    padding: 10px;
+}
